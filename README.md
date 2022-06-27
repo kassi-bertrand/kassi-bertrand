@@ -1,4 +1,4 @@
-### I am Kassi, and welcome on my coding ground! 🚀 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### I am Kassi, and welcome on my coding ground! 🚀
 
 
 - 🔭 I’m currently working on a Search Engine, with my friend [Pravin](https://github.com/pravindoesstuff)
