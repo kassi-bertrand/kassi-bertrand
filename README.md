@@ -2,6 +2,7 @@
 
 
 - 🔭 I’m currently working on an interpreter for the PASCAL programming language
+- 🔭 I’m also learning how to make cool animations using JavaScript
 - 🌱 I’m currently learning Data structures & Algorithms
 - 📫 How to reach me: bertran.billy@gmail.com
 - 😄 Pronouns: He/Him/His
