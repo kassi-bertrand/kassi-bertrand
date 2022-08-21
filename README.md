@@ -1,7 +1,7 @@
 ### I am Kassi, and welcome on my coding ground! 🚀
 
 
-- 🔭 I’m currently working on an interpreter for the PASCAL programming language
+- 🔭 I’m currently building a debugger
 - 🔭 I’m also learning how to make cool animations using JavaScript
 - 🌱 I’m currently learning Data structures & Algorithms
 - 📫 How to reach me: bertran.billy@gmail.com
