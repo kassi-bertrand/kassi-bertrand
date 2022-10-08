@@ -46,6 +46,13 @@
 
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />][terminal]
 
+<br />
+<br />
+
+### My github Stats 📈
+
+[![Kassi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kassi-bertrand&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 - 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help with ...
