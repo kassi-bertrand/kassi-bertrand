@@ -1,11 +1,10 @@
 ### Hi there, I'm Kassi - aka Little-Giant! 🚀
 
-- 🔭 I’m currently building a solution to streamline application process for TA positions at my university
+- 🔭 I’m currently a Undergraduate Research Assistant at [ISaBEL](https://www.smu.edu/Provost/virtualization/Research/ISaBEL)
 - 🔭 I’m also in the process of finding my first internship!
-- 🌱 I’m currently learning Data structures & Algorithms
+- 🌱 I’m currently learning fundamentals of Deep Learning
 - 📫 How to reach me: bertran.billy@gmail.com
 - ⚡ Fun fact: I love to draw and make 3D models with Blender3D. See my [Portfolio](https://www.instagram.com/kassi.bertrand/)
-- 😄 Pronouns: He/Him/His
 
 ### Connect with me:
 
