@@ -1,8 +1,7 @@
 ### Hi there, I'm Kassi - aka Little-Giant! 🚀
 
-- 🔭 I’m currently a Undergraduate Research Assistant at [ISaBEL](https://www.smu.edu/Provost/virtualization/Research/ISaBEL)
-- 🔭 I’m also in the process of finding my first internship!
-- 🌱 I’m currently learning fundamentals of Deep Learning
+- 🔭 I’m currently a Graduate Research Assistant at [ISaBEL](https://www.smu.edu/Provost/virtualization/Research/ISaBEL)
+- 🌱 Thinkering with machines and computer graphics.
 - 📫 How to reach me: bertran.billy@gmail.com
 - ⚡ Fun fact: I love to draw and make 3D models with Blender3D. See my [Portfolio](https://www.instagram.com/kassi.bertrand/)
 
@@ -49,8 +48,6 @@
 <br />
 
 ### My github Stats 📈
-
-[![Kassi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kassi-bertrand&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 - 👯 I’m looking to collaborate on
